@@ -429,6 +429,7 @@ define([
     };
 
     Tile.prototype.initializeButtons = function(){
+      console.log('hi');
       var buttons = [];
       var tile_config = this.getConfig();
 
