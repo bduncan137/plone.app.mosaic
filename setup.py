@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 from setuptools import setup, find_packages
 
-version = '7.0.0'
+version = '7.0.1'
 
 long_description = (
     open('README.rst').read() + '\n' +
-    open('CHANGES.rst').read()+ '\n'
+    open('CHANGES.rst').read() + '\n'
 )
 
 setup(
