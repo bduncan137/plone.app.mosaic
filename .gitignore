@@ -1,7 +1,7 @@
 *.EGG
-*.EGG-INFO
+# *.EGG-INFO
 *.egg
-*.egg-info
+# *.egg-info
 *.map
 *.mo
 *.pyc

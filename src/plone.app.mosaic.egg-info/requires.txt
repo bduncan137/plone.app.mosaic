@@ -1,0 +1,8 @@
+setuptools
+plone.api
+plone.tiles
+plone.app.blocks
+plone.app.tiles
+plone.app.drafts
+plone.app.standardtiles
+Products.CMFPlone
